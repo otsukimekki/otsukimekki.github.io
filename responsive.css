@@ -1,0 +1,14 @@
+@media(max-width:670px){
+  header{
+    position:absolute;
+  }
+  .header-left p{
+    font-size:20px;
+  }
+  h2{
+    font-size:20px;
+  }
+  .container{
+    width:93%;
+  }
+}
