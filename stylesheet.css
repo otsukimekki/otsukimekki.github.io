@@ -92,11 +92,14 @@ h1{
 }
 
 .playting a{
-  line-height:60px;
-  padding:24px;
+  line-height:18px;
+  padding:12px 80%;
   margin:10px;
 
+}
 
+.playting p{
+  text-align: center;
 }
 .ni{
   background-color:rgb(90,85,60);
